@@ -1,0 +1,4 @@
+/home/ctnano/Desktop/Coding_Folder/wxWidget_Hello_World/build/CMakeFiles/rebuild_cache.dir
+/home/ctnano/Desktop/Coding_Folder/wxWidget_Hello_World/build/CMakeFiles/edit_cache.dir
+/home/ctnano/Desktop/Coding_Folder/wxWidget_Hello_World/build/CMakeFiles/clean_build.dir
+/home/ctnano/Desktop/Coding_Folder/wxWidget_Hello_World/build/CMakeFiles/wxWidget_Hello_World.dir
